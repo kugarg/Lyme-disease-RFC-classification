@@ -91,7 +91,7 @@ Finally, the model's performance is analyzed and visualized using various plots,
 
 ## Results
 
-The cross-validation results showed an average accuracy of 76.9% with a standard deviation of 11.4%. The ROC-AUC for the training set was 0.98, while the test set was 0.87. 
+The cross-validation results showed an average accuracy of 78.16% with a standard deviation of 12.15%. The ROC-AUC for the training set was 0.92, while the test set was 0.88. 
 
 ## Feedback
 
