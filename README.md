@@ -91,7 +91,11 @@ Finally, the model's performance is analyzed and visualized using various plots,
 
 ## Results
 
-The cross-validation results showed an average accuracy of 78.16% with a standard deviation of 12.15%. The ROC-AUC for the training set was 0.92, while the test set was 0.88. 
+The cross-validation results showed an average accuracy of 78.16% with a standard deviation of 12.15%. The ROC-AUC for the training set was 0.92, while the test set was 0.88.
+
+## Reference
+
+Garg, K., Fajardo-Yamamoto, L.M., Rojas-Castro, F.C., Susnjak, T., Gilbert, L. (2024). Building a Binary Classification Machine-Learning Model: A Guide to Predicting Participation in a Lyme Disease Program at a Medical Institute. In: Gilbert, L. (eds) Borrelia burgdorferi. Methods in Molecular Biology, vol 2742. Humana, New York, NY. https://doi.org/10.1007/978-1-0716-3561-2_15
 
 ## Feedback
 
